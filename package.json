@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
   }
 }
